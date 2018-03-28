@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="three_days">3 days</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="search_hint">Search your city here.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="temp_format">%1$.1f°C</string>
+    <string name="wind_speed_format">%1$.1f km/h</string>
+    <string name="wind_degree_format">%1$d° %2$s</string>
+    <string name="humidity_format">%1$d</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_degree">Wind Degree</string>
+    <string name="humidity">Humidity</string>
+    <string name="cloud">Cloud</string>
+    <string name="semi_colon">:</string>
+    <string name="no_cloud">no clouds</string>
+    <string name="partial_clouds">partial clouds</string>
+    <string name="cloudy">cloudy</string>
+    <string name="full_cloud">full clouds</string>
+    <string name="max_wind_speed">Max Wind Speed</string>
+    <string name="max_humidity">Average Humidity</string>
+    <string name="search">Search</string>
+</resources>
